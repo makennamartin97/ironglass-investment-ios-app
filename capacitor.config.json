@@ -1,0 +1,6 @@
+{
+  "appId": "IronglassInvestment.app",
+  "appName": "Ironglass Investment",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
